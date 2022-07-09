@@ -1,22 +1,19 @@
 {
-    "version" : "0.0.1",
+    "version" : "0.0.2",
     "sources" : {
         "olist_customers_dataset" : {
             "name" : "olist_customers_dataset.csv",
-            "src" : "https://downloader.disk.yandex.ru/disk/1aaf81b28f582f09aeaaf47f6ea82c4a114a85b53a3acd172e4e70aa78076500/629fa3e5/l9rUW5QCYE1v_Vb85lc2_FJfwWdgMJ5VjRECL1sslDo-ICZm75VRCKxmbjQzyPRm81ySmP0WwqOBn9lSniY-Lg%3D%3D?uid=0&filename=olist_customers_dataset.csv&disposition=attachment&hash=8Kz5YKWEyf9uR%2BiXonnDbQPjoD5FBNU68Z6YaW30tmtQH3zipulfj/Xz9ZoCJjpPq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=text%2Fplain&owner_uid=125175473&fsize=9033957&hid=b675f8ba78c13d600facc03ba2033f9f&media_type=spreadsheet&tknv=v2",
-            "src_2" : "https://s267vla.storage.yandex.net/rdisk/a3217b35a1ceaf9fc8e45471a207699cc7811a9ba0ceda8796fe6c099c3ee8bd/629f9f51/l9rUW5QCYE1v_Vb85lc2_FJfwWdgMJ5VjRECL1sslDo-ICZm75VRCKxmbjQzyPRm81ySmP0WwqOBn9lSniY-Lg==?uid=0&filename=olist_customers_dataset.csv&disposition=attachment&hash=8Kz5YKWEyf9uR%2BiXonnDbQPjoD5FBNU68Z6YaW30tmtQH3zipulfj/Xz9ZoCJjpPq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=text%2Fplain&owner_uid=125175473&fsize=9033957&hid=b675f8ba78c13d600facc03ba2033f9f&media_type=spreadsheet&tknv=v2&rtoken=X87C85zoohBr&force_default=no&ycrid=na-4ff677e2afc1aaeaf069aebb2fbb9e66-downloader21h&ts=5e0e024b9b640&s=28fdb4f92c33bc94550b970fe57c7cdec2d05f9b804dee58464a066d36bed38b&pb=U2FsdGVkX19L0gE4s4mVPYkJE4BR03CsxI7vG5O88tGP8hmptWBZ1HllIBAeoRg1fVP5suUmGxjVTjdL7Ywjm1QIUc3oITtqxNn68YvAHHk"
+            "src" : "https://drive.google.com/uc?export=download&id=1-WHQeOT5B6iyr_8JJlEO1jfnCgplnP0E"
         },
 
         "olist_order_items_dataset" : {
             "name" : "olist_order_items_dataset.csv",
-            "src" : "https://downloader.disk.yandex.ru/disk/612686a4711c14a7b72193a2e7c46eaef6e4d67297ed05b6a0dbd8a105838972/629fa587/l9rUW5QCYE1v_Vb85lc2_BLqOxxhJrJbn52AF-XmD50NEbdTd8gXMRrqNXCXacfnpPZo6WuHinNd24yXhjMTJQ%3D%3D?uid=0&filename=olist_order_items_dataset.csv&disposition=attachment&hash=f081npP8ZuzgXd2HHZdYi0gpGuRjvwjnDbAcQYlk3L79wwtxLCyfpAux1UhFZV1Uq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=text%2Fplain&owner_uid=125175473&fsize=15438671&hid=86fa0ab2956a1f56a0c01e930a44f547&media_type=spreadsheet&tknv=v2",
-            "src_2"  : "https://s201vla.storage.yandex.net/rdisk/de7431a38290e577947e7bb3c0efd6f15d16c17e4a363b40ea34d56d8de63c1a/629f9f54/l9rUW5QCYE1v_Vb85lc2_FMCwvSWHpAnIgUxRQB6t1NE-kaLb2q1lfdqmkuuvbZRx6gQSQCHgBk324u3rpDj0Q==?uid=0&filename=olist_orders_dataset.csv&disposition=attachment&hash=sIv9fr4pY%2B3CcVDAJ7cBLLyzYtCy9iy7hyVWXaX4owr1YRBUAzy8dR2bv3va4jhMq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=text%2Fplain&owner_uid=125175473&fsize=17654914&hid=87c93f55b161ccff733960c7e368d4e8&media_type=spreadsheet&tknv=v2&rtoken=Jgafk09wIzta&force_default=no&ycrid=na-54241c95cfecd27862c6883edecc5ea8-downloader21h&ts=5e0e024e77d00&s=6047e83ad50b221f775540aca800dd2516f4273c292c717f10afc00f62f6e458&pb=U2FsdGVkX184kXNbFdX-bL795e4GElas7Qw_yAORnjEcVDZPoIx_4WhAnwCAUl_KXHwxR2yyiUmtGnuaBMqxDowBNo71IQgIkN35vDF781w"
+            "src" : "https://drive.google.com/uc?export=download&id=1RKqqeJyz78zDGeOiCt1EOZlo4LrfF9tR"
         },
 
         "olist_orders_dataset" : {
             "name" : "olist_orders_dataset.csv",
-            "src" : "https://downloader.disk.yandex.ru/disk/ad812e267bb8f56db05a97d5f5897c0e2f2fdc522cfafc4b2524ff299bcaa988/629fa504/l9rUW5QCYE1v_Vb85lc2_FMCwvSWHpAnIgUxRQB6t1NE-kaLb2q1lfdqmkuuvbZRx6gQSQCHgBk324u3rpDj0Q%3D%3D?uid=0&filename=olist_orders_dataset.csv&disposition=attachment&hash=sIv9fr4pY%2B3CcVDAJ7cBLLyzYtCy9iy7hyVWXaX4owr1YRBUAzy8dR2bv3va4jhMq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=text%2Fplain&owner_uid=125175473&fsize=17654914&hid=87c93f55b161ccff733960c7e368d4e8&media_type=spreadsheet&tknv=v2",
-            "src_2"  : "https://s270vla.storage.yandex.net/rdisk/4065dea3689f31e217b0df781995f1ca0554dccd484a8d1b40284af2395d3f35/629f9f57/l9rUW5QCYE1v_Vb85lc2_BLqOxxhJrJbn52AF-XmD50NEbdTd8gXMRrqNXCXacfnpPZo6WuHinNd24yXhjMTJQ==?uid=0&filename=olist_order_items_dataset.csv&disposition=attachment&hash=f081npP8ZuzgXd2HHZdYi0gpGuRjvwjnDbAcQYlk3L79wwtxLCyfpAux1UhFZV1Uq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=text%2Fplain&owner_uid=125175473&fsize=15438671&hid=86fa0ab2956a1f56a0c01e930a44f547&media_type=spreadsheet&tknv=v2&rtoken=8cjS8wGlYMno&force_default=no&ycrid=na-e1af863306803e06ed6cfb8965686208-downloader21h&ts=5e0e0251543c0&s=9169780dce3b37391f37f8d5c3874532ae3c899279747917de448a700024ecec&pb=U2FsdGVkX18GTKhi-0JzpaB3lJQJqcsdetA5v9c6yodPJlHMs63pb1XTi2GgHnnAv_CoepVUXp8UTV6wyNSjicPIgQHtxfW2VGtxJoQBl_Y"
+            "src" : "https://drive.google.com/uc?export=download&id=1jxRKT2WKf5LZuUyWWhCVsAN_1-RhOJJY"
         }
     }
 }
