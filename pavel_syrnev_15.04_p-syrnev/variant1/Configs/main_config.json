@@ -1,0 +1,11 @@
+{
+    "profiles" : {
+        "local" : {
+            "path" : "data_src_local.json"
+        },
+
+        "remote" : {
+            "path" : "data_src_remote.json"
+        }
+    }
+}

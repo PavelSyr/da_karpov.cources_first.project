@@ -1,0 +1,19 @@
+{
+    "version" : "0.0.1",
+    "sources" : {
+        "olist_customers_dataset" : {
+            "name" : "olist_customers_dataset.csv",
+            "src"  : "../../../first_project_data/olist_customers_dataset.csv"
+        },
+
+        "olist_order_items_dataset" : {
+            "name" : "olist_order_items_dataset.csv",
+            "src"  : "../../../first_project_data/olist_order_items_dataset.csv"
+        },
+
+        "olist_orders_dataset" : {
+            "name" : "olist_orders_dataset.csv",
+            "src"  : "../../../first_project_data/olist_orders_dataset.csv"
+        }
+    }
+}

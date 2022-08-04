@@ -1,0 +1,19 @@
+{
+    "version" : "0.0.2",
+    "sources" : {
+        "olist_customers_dataset" : {
+            "name" : "olist_customers_dataset.csv",
+            "src" : "https://drive.google.com/uc?export=download&id=1-WHQeOT5B6iyr_8JJlEO1jfnCgplnP0E"
+        },
+
+        "olist_order_items_dataset" : {
+            "name" : "olist_order_items_dataset.csv",
+            "src" : "https://drive.google.com/uc?export=download&id=1RKqqeJyz78zDGeOiCt1EOZlo4LrfF9tR"
+        },
+
+        "olist_orders_dataset" : {
+            "name" : "olist_orders_dataset.csv",
+            "src" : "https://drive.google.com/uc?export=download&id=1jxRKT2WKf5LZuUyWWhCVsAN_1-RhOJJY"
+        }
+    }
+}
